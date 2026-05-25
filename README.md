@@ -102,7 +102,3 @@ O executavel sera criado dentro de `dist\PrimeStudio Card\`.
 PDF/X real ainda aparece como etapa futura no app. Por enquanto, use PDF normal, TIFF ou PDF vetorial conforme a necessidade da grafica.
 
 No PDF Vetorial, a arte base da carta continua sendo uma imagem dentro do PDF. Os textos adicionados por cima sao vetoriais.
-
-## Antes de publicar no GitHub
-
-Confira se pastas locais como `.venv`, `.qa_venv`, `.vendor_packages`, `.python_packages`, `build`, `dist` e `__pycache__` nao foram adicionadas ao commit.
