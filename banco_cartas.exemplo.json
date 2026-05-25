@@ -1,0 +1,30 @@
+{
+    "demogorgon": {
+        "arquivo": "demogorgon",
+        "nome": "Demogorgon",
+        "subtitulo": "Criatura do Mundo Invertido",
+        "habilidades": [
+            {
+                "nome": "Investida",
+                "descricao": "Causa dano extra quando entra em jogo."
+            },
+            {
+                "nome": "Rugido",
+                "descricao": "Reduz a defesa do alvo ate o fim da rodada."
+            }
+        ],
+        "cor": "#C30212",
+        "estilo": "Minimalista",
+        "preset": "Minimalista",
+        "template": "Magic",
+        "quantidade": 2,
+        "raridade": "Rara",
+        "expansao": "Mundo Invertido",
+        "ordem": 1,
+        "verso": "",
+        "icone": "",
+        "posicoes": {},
+        "fontes": {},
+        "pdf": {}
+    }
+}

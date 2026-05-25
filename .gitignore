@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.qa_venv/
+.python_packages/
+.vendor_packages/
+build/
+dist/
+*.spec
+banco_cartas.backup.json
+preferencias.json
+banco_cartas.json
